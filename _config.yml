@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.7810873444149932
+  lightness: 0.40703315616553926
+  rhythmicContrast: 0.5977555923247712
+  saturation: 0.6673078703678629
+cta: {}
+layout_spectrum: 0.1913978461820114
+name: yuya
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.30085188067506385
